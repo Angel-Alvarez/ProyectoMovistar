@@ -1,0 +1,6 @@
+C:\Users\Angel\Documents\ProyectMovistar\ProyMovistar\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\Angel\Documents\ProyectMovistar\ProyMovistar\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\Angel\Documents\ProyectMovistar\ProyMovistar\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\ProyectMovistar\ProyMovistar\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\ProyectMovistar\ProyMovistar\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\Angel\Documents\ProyectMovistar\ProyMovistar\capaNegocio\obj\Debug\capaNegocio.pdb
