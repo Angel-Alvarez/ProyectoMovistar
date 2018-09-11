@@ -9,3 +9,13 @@ C:\Users\Angel\Documents\ProyectMovistar\ProyMovistar\capaDatos\obj\Debug\capaDa
 C:\Users\Angel\Documents\ProyectMovistar\ProyMovistar\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
 C:\Users\Angel\Documents\ProyectMovistar\ProyMovistar\capaDatos\obj\Debug\capaDatos.dll
 C:\Users\Angel\Documents\ProyectMovistar\ProyMovistar\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaDatos\bin\Debug\capaNegocio.dll
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaDatos\bin\Debug\capaNegocio.pdb
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaDatos\bin\Debug\MySql.Data.xml
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaDatos\obj\Debug\capaDatos.csprojAssemblyReference.cache
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaDatos\obj\Debug\capaDatos.pdb

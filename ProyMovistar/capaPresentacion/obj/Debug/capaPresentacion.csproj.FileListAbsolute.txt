@@ -17,3 +17,23 @@ C:\Users\Angel\Documents\ProyectMovistar\ProyMovistar\capaPresentacion\obj\Debug
 C:\Users\Angel\Documents\ProyectMovistar\ProyMovistar\capaPresentacion\obj\Debug\capaPresentacion.pdb
 C:\Users\Angel\Documents\ProyectMovistar\ProyMovistar\capaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
 C:\Users\Angel\Documents\ProyectMovistar\ProyMovistar\capaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\bin\Debug\MySql.Data.dll
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\bin\Debug\MySql.Data.xml
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\obj\Debug\capaPresentacion.csprojAssemblyReference.cache
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\obj\Debug\capaPresentacion.frmLogin.resources
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\Juanjo\Desktop\Proyecto Movistar\ProyectoMovistar\ProyMovistar\capaPresentacion\obj\Debug\capaPresentacion.frmInventario.resources
